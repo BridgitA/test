@@ -1,0 +1,19 @@
+section{
+    padding: 20px;
+    margin: 20px;
+}
+.title{
+    background-color: #A6BE9E;
+    font-weight: bold;
+}
+.article{
+    background-color: #357074;
+    font-size: x-small;
+    color: #FFF3BC;
+}
+.brand{
+    background-color: #082833;
+    font-size: x-large;
+    font-weight: bold;
+    color: #C24726;
+}
