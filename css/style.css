@@ -1,19 +1,15 @@
-section{
-    padding: 20px;
-    margin: 20px;
+p{
+    font-style: italic;
+
 }
-.title{
-    background-color: #A6BE9E;
-    font-weight: bold;
-}
-.article{
-    background-color: #357074;
+article > p{
     font-size: x-small;
-    color: #FFF3BC;
+    color: red;
+
 }
-.brand{
-    background-color: #082833;
-    font-size: x-large;
+article > section > p{
+    color: blue;
+}
+article > section > p:last-child{
     font-weight: bold;
-    color: #C24726;
 }
