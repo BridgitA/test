@@ -1,15 +1,9 @@
-p{
-    font-style: italic;
+
+font-face{
+    font-family: Itim;
+    src: url('..//fonts/itim.ttf') format('truetype')
 
 }
-article > p{
-    font-size: x-small;
-    color: red;
-
-}
-article > section > p{
-    color: blue;
-}
-article > section > p:last-child{
-    font-weight: bold;
+body{
+    font-family: Itim;
 }
